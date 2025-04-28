@@ -12,7 +12,7 @@
 body{
 
   background: rgb(238, 244, 247);
-  background-image: url(RECURSOS/imageeen.svg), url(RECURSOS/imageen.svg);
+  background-image: url(imageeen.svg), url(imageen.svg);
   background-position: left top, right bottom;
   background-repeat: no-repeat;
   background-size: inherit;
